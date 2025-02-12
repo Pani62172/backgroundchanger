@@ -17,14 +17,11 @@ button {
     font-weight: bold;
     transition: all 0.3s ease;
 }
-
-/* Initial button colors */
 .red { background-color: red; color: white; border-color: red; }
 .blue { background-color: blue; color: white; border-color: blue; }
 .green { background-color: green; color: white; border-color: green; }
 .yellow { background-color: yellow; color: black; border-color: yellow; }
 
-/* Active (clicked) state */
 .active {
     background-color: white !important;
 }
